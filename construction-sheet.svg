@@ -1,85 +1,28 @@
-<svg version="1.1" style="background:#fff" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 width="1210" height="870" viewBox="172 80 1210 870">
-	<rect x="273.5" y="231.5" fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" width="1000" height="600"/>
-<g>
-	<line x1="274" y1="178" x2="1274" y2="178"/>
-	<g>
-		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="290" y1="178" x2="296" y2="178"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="12,12" x1="308" y1="178" x2="1246" y2="178"/>
-		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="1252" y1="178" x2="1258" y2="178"/>
-		<g>
-			<path d="M293.895,178l4.383-7.206l-0.246-0.163l-11.75,4.667c-4.094,0.9-8.188,1.801-12.281,2.702
-				c4.094,0.9,8.188,1.801,12.281,2.702l11.75,4.667l0.246-0.123L293.895,178z"/>
-		</g>
-		<g>
-			<path d="M1254.105,178l-4.383-7.206l0.246-0.163l11.75,4.667c4.094,0.9,8.188,1.801,12.281,2.702
-				c-4.094,0.9-8.188,1.801-12.281,2.702l-11.75,4.667l-0.246-0.123L1254.105,178z"/>
-		</g>
-	</g>
-</g>
-<text transform="matrix(1 0 0 1 737.0649 151.6875)" font-family="'MyriadPro-Regular'" font-size="72">10</text>
-<text transform="matrix(1 0 0 1 190.8042 553.5)" font-family="'MyriadPro-Regular'" font-size="72">6</text>
-<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="2,3" x1="274" y1="530.5" x2="1274" y2="530.5"/>
-<g>
-	<g>
-		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="251" y1="247" x2="251" y2="253"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="12,12" x1="251" y1="265" x2="251" y2="803"/>
-		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="251" y1="809" x2="251" y2="815"/>
-		<g>
-			<path d="M251,250.895l7.206,4.383l0.163-0.246l-4.667-11.75c-0.9-4.094-1.801-8.188-2.702-12.281
-				c-0.9,4.094-1.801,8.188-2.702,12.281l-4.667,11.75l0.123,0.246L251,250.895z"/>
-		</g>
-		<g>
-			<path d="M251,811.105l7.206-4.383l0.163,0.246l-4.667,11.75c-0.9,4.094-1.801,8.188-2.702,12.281
-				c-0.9-4.094-1.801-8.188-2.702-12.281l-4.667-11.75l0.123-0.246L251,811.105z"/>
-		</g>
-	</g>
-</g>
-<g>
-	<line x1="274" y1="865" x2="724" y2="865"/>
-	<g>
-		
-			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="12,12" x1="290" y1="865" x2="708" y2="865"/>
-		<g>
-			<path d="M293.895,864.5l4.383-7.206l-0.246-0.163l-11.75,4.667c-4.094,0.9-8.188,1.801-12.281,2.702
-				c4.094,0.9,8.188,1.801,12.281,2.702l11.75,4.667l0.246-0.123L293.895,864.5z"/>
-		</g>
-		<g>
-			<path d="M704.105,864.5l-4.383-7.206l0.246-0.163l11.75,4.667c4.094,0.9,8.188,1.801,12.281,2.702
-				c-4.094,0.9-8.188,1.801-12.281,2.702l-11.75,4.667l-0.246-0.123L704.105,864.5z"/>
-		</g>
-	</g>
-</g>
-<text transform="matrix(1 0 0 1 454.6133 929.5684)" font-family="'MyriadPro-Regular'" font-size="72">4.5</text>
-<line stroke="#000000" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="2,3" x1="723.5" y1="831" x2="723.5" y2="231"/>
-<circle fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="723.062" cy="531.081" r="200"/>
-<g>
-	<g>
-		
-			<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" stroke-dasharray="12,12" x1="723.062" y1="531.081" x2="879.939" y2="445.08"/>
-		<g>
-			<path d="M898.462,434.926c-6.942,8.012-14.731,19.458-18.23,28.977l-2.723-17.491l-13.279-11.699
-				C874.137,436.883,887.975,436.473,898.462,434.926z"/>
-		</g>
-	</g>
-</g>
-<text transform="matrix(1 0 0 1 743.8037 602.5928)" font-family="'MyriadPro-Regular'" font-size="72">r = 2</text>
-<g>
-	<line x1="1294" y1="531" x2="1294" y2="831"/>
-	<g>
-		
-			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="12,12" x1="1294" y1="547" x2="1294" y2="815"/>
-		<g>
-			<path d="M1294,550.895l7.206,4.383l0.163-0.246l-4.667-11.75c-0.9-4.094-1.801-8.188-2.702-12.281
-				c-0.9,4.094-1.801,8.188-2.702,12.281l-4.667,11.75l0.123,0.246L1294,550.895z"/>
-		</g>
-		<g>
-			<path d="M1294,811.105l7.206-4.383l0.163,0.246l-4.667,11.75c-0.9,4.094-1.801,8.188-2.702,12.281
-				c-0.9-4.094-1.801-8.188-2.702-12.281l-4.667-11.75l0.123-0.246L1294,811.105z"/>
-		</g>
-	</g>
-</g>
-<text transform="matrix(1 0 0 1 1315.5879 697.0547)" font-family="'MyriadPro-Regular'" font-size="72">3</text>
+<svg xmlns="http://www.w3.org/2000/svg" style="background:#fff" viewBox="172 80 1210 870">
+  <rect width="1000" height="600" x="274" y="232" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="5"/>
+  <line x1="274" x2="1274" y1="178" y2="178"/>
+  <line x1="290" x2="296" y1="178" y2="178" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+  <line x1="308" x2="1246" y1="178" y2="178" fill="none" stroke="#000" stroke-dasharray="12 12" stroke-miterlimit="10" stroke-width="4"/>
+  <line x1="1252" x2="1258" y1="178" y2="178" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+  <path d="m294 178 4-7-12 4-12 3 12 3 12 4-4-7zm960 0-4-7 12 4 12 3-12 3-12 4 4-7z"/>
+  <text font-size="72" transform="translate(737 152)">10</text>
+  <text font-size="72" transform="translate(191 554)">6</text>
+  <line x1="274" x2="1274" y1="530.5" y2="530.5" fill="none" stroke="#000" stroke-dasharray="2 3" stroke-miterlimit="10" stroke-width="3"/>
+  <line x1="251" x2="251" y1="247" y2="253" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+  <line x1="251" x2="251" y1="265" y2="803" fill="none" stroke="#000" stroke-dasharray="12 12" stroke-miterlimit="10" stroke-width="4"/>
+  <line x1="251" x2="251" y1="809" y2="815" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+  <path d="m251 251 7 4-4-12-3-12-3 12-4 12 7-4zm0 560 7-4-4 12-3 12-3-12-4-12 7 4z"/>
+  <line x1="274" x2="724" y1="865" y2="865"/>
+  <line x1="290" x2="708" y1="865" y2="865" fill="none" stroke="#000" stroke-dasharray="12 12" stroke-miterlimit="10" stroke-width="4"/>
+  <path d="m294 865 4-8-12 5-12 3 12 2 12 5-4-7zm410 0-4-8 12 5 12 3-12 2-12 5 4-7z"/>
+  <text font-size="72" transform="translate(455 930)">4.5</text>
+  <line x1="723.5" x2="723.5" y1="831" y2="231" stroke="#000" stroke-dasharray="2 3" stroke-miterlimit="10" stroke-width="3"/>
+  <circle cx="723.1" cy="531.1" r="200" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="5"/>
+  <line x1="723.1" x2="879.9" y1="531.1" y2="445.1" fill="none" stroke="#000" stroke-dasharray="12 12" stroke-miterlimit="10" stroke-width="5"/>
+  <path d="M898 435c-6 8-14 19-18 29l-2-18-14-11c10 2 24 1 34 0z"/>
+  <text font-size="72" transform="translate(744 603)">r = 2</text>
+  <line x1="1294" x2="1294" y1="531" y2="831"/>
+  <line x1="1294" x2="1294" y1="547" y2="815" fill="none" stroke="#000" stroke-dasharray="12 12" stroke-miterlimit="10" stroke-width="4"/>
+  <path d="m1294 551 7 4-4-12-3-12-3 12-4 12 7-4zm0 260 7-4-4 12-3 12-3-12-4-12 7 4z"/>
+  <text font-size="72" transform="translate(1316 697)">3</text>
 </svg>
